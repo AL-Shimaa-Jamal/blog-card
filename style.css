@@ -51,6 +51,18 @@ h4{
 }
 p{
     color: gray;
-    font-size: 15px;
+    font-size: 12px;
     text-transform: capitalize;
+    margin: 2% 0;
+}
+footer {
+display: flex;
+justify-content: start;
+align-items: center;
+width: 100%;
+margin: 20px 0;
+}
+footer img{
+    width: 12%;
+    margin-right: 10px;
 }
